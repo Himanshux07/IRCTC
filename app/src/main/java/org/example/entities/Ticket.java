@@ -8,5 +8,4 @@ public class Ticket {
     private Date dateOfTravel;
     private Train train;
 
-
 }
